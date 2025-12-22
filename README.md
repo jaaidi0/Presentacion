@@ -30,7 +30,7 @@
 ---
 
 ## 🌐 Más sobre mí
-- 🌍 [Portafolio](https://jaaidi0.github.io)
+- 🌍 [Portafolio](https://jaaidi0.github.io/archipielago-digital/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/el-jaidi/)
 - 🌍 [AgroData System pagina de facebook](https://www.facebook.com/profile.php?id=61585221182428)
 - 💼 [Cuenta_Personal de facebook](https://www.facebook.com/profile.php?id=100008929025197)
