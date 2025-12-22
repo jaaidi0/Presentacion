@@ -1,5 +1,5 @@
 
-# 👋 Hola, soy EL Mostapha Jaaidi
+# 👋  EL Mostapha Jaaidi
 
 🌱 **Agro-Tech Developer** | IoT | Edge Computing | Data Engineering  
 🎯 Transformo datos en decisiones para una agricultura más inteligente.
@@ -32,6 +32,8 @@
 ## 🌐 Más sobre mí
 - 🌍 [Portafolio](https://jaaidi0.github.io)
 - 💼 [LinkedIn](https://www.linkedin.com/in/el-jaidi/)
+- 🌍 [AgroData System pagina de facebook](https://www.facebook.com/profile.php?id=61585221182428)
+- 💼 [Cuenta_Personal de facebook](https://www.facebook.com/profile.php?id=100008929025197)
 ---
 
 ### ✨ Mi visión
