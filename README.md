@@ -36,7 +36,7 @@ Sistema IoT para monitoreo agrícola en tiempo real (**VPD** y **riesgo fúngico
 ETL y dashboard para inteligencia climática usando **AEMET OpenData** y **Streamlit**.
 - **Stack:** Python · Streamlit · Plotly · ETL  
 - **Repo:** https://github.com/jaaidi0/aemet-dashboard-pro  
-- **Demo (si aplica):** TU_DEMO_AQUI  
+- **Demo (si aplica):** https://aemet-dashboard-pro-3s9ay3cnvowfgvrutqvh4w.streamlit.app/ 
 - **Qué aporta:** visualización clara, exportación y análisis de tendencias/anomalías.
 
 ### 🧭 Archipiélago Digital — Portafolio
