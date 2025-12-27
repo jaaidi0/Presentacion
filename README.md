@@ -76,4 +76,3 @@ Estoy abierto a:
 
 ## ✨ Mi visión
 Impulsar la **digitalización del campo** mediante IoT, analítica climática y Edge Computing para una agricultura más sostenible y eficiente.
- mediante IoT, analítica climática y Edge Computing para una agricultura más sostenible y eficiente.
