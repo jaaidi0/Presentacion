@@ -1,9 +1,5 @@
 
-# 👋 EL Mostapha Jaaidi
-
-🌱 **Agro‑Tech Developer** | **Python** · **Data Engineering** · **IoT** · **Edge Computing**  
-🎯 Transformo datos (**clima + sensores**) en decisiones para una agricultura más inteligente.
-
+# 👋 EL Mostapha JaaidiPortfolio y presentación — Agro‑Tech Developer (Python, Data Engineering & IoT). Smart Farming · Climate Intelligence · ETL. Biólogo que convierte datos en decisiones 🌱
 <p align="left">
   <a href="https://jaaidi0.github.io/archipielago-digital/">
     <img src="https://img.shields.io/badge/Portafolio-0A66C2?style=flat&logo=google-chrome&logoColor=white" />
