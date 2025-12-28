@@ -50,43 +50,38 @@ Mi portafolio personal con identidad profesional y proyectos.
 ---
 ## 🛠️ Tecnologías y Herramientas
 
-### 🔧 Lenguajes
-🐍 Python &nbsp;|&nbsp; 💻 Bash
+## 🛠️ Tecnologías y Herramientas
 
-### ⚙️ Backend
-🚀 Flask · FastAPI  
-🌐 REST APIs  
-☁️ Azure App Service
+**Lenguajes:**  
+🐍 Python · 💻 Bash ,Zsh 
 
-### 🗄️ Bases de Datos
-🐘 PostgreSQL  
-⏱️ TimescaleDB  
-📊 SQL avanzado
+**Backend & APIs:**  
 
-### 🐳 Contenedores
-🐳 Docker · Docker Compose  
-🖥️ DevOps básico
+⚙️ Flask · FastAPI · REST APIs
 
-### 📈 Dashboards
-📈 Grafana  
-📊 Plotly  
-🌐 Streamlit
+**Bases de datos:**  
 
-### 📡 IoT
-🔌 ESP32  
-🌡️ Sensores ambientales  
-🔗 HTTP / JSON
+🐘 PostgreSQL · ⏱️ TimescaleDB
 
-### 🛠️ Dev Tools
-🧰 VS Code  
-🌀 Git · GitHub  
-♻️ GitHub Actions  
-🧪 pytest · 🧹 ruff
+**Infraestructura:**  
 
-### 🎨 Documentación & Diseño
-🧱 Markdown  
-🎨 HTML/CSS  
-📐 Diagramas
+🐳 Docker · Docker Compose
+
+**Visualización:**  
+
+📈 Grafana · 📊 Plotly · 🌐 Streamlit
+
+**IoT:**  
+
+🔌 ESP32 · 🌡️ Sensores ambientales · 🔗 HTTP/JSON
+
+**DevOps & Desarrollo:**  
+
+🌀 Git/GitHub · ♻️ GitHub Actions · 🧹 ruff · 🧪 pytest
+
+**Documentación & Diseño:**  
+
+🧱 Markdown · 🎨 HTML/CSS
 
 
 ---
@@ -98,11 +93,11 @@ Estoy abierto a:
 - ✅ Colaboraciones en dashboards, pipelines, monitoreo o prototipos IoT
 
 📩 **Contacto:**  
-Email: eljaa@alum.us.es  
-LinkedIn: https://www.linkedin.com/in/el-jaidi/
+                  💼 Email: eljaa@alum.us.es  
+                  🌐 LinkedIn: https://www.linkedin.com/in/el-jaidi/
 
 ---
 
-## ✨ Mi visión
+  ## ✨ Mi visión
 Impulsar la digitalización del campo mediante IoT, analítica climática y Edge Computing  
 para una agricultura más sostenible, precisa y eficiente.
