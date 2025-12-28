@@ -48,9 +48,46 @@ Mi portafolio personal con identidad profesional y proyectos.
 **Web:** https://jaaidi0.github.io/archipielago-digital/
 
 ---
+## 🛠️ Tecnologías y Herramientas
 
-## 🛠️ Tecnologías y herramientas
-**Python · Docker · Streamlit · Plotly · PostgreSQL · TimescaleDB · Grafana · IoT (ESP32)**
+### 🔧 Lenguajes
+🐍 Python &nbsp;|&nbsp; 💻 Bash
+
+### ⚙️ Backend
+🚀 Flask · FastAPI  
+🌐 REST APIs  
+☁️ Azure App Service
+
+### 🗄️ Bases de Datos
+🐘 PostgreSQL  
+⏱️ TimescaleDB  
+📊 SQL avanzado
+
+### 🐳 Contenedores
+🐳 Docker · Docker Compose  
+🖥️ DevOps básico
+
+### 📈 Dashboards
+📈 Grafana  
+📊 Plotly  
+🌐 Streamlit
+
+### 📡 IoT
+🔌 ESP32  
+🌡️ Sensores ambientales  
+🔗 HTTP / JSON
+
+### 🛠️ Dev Tools
+🧰 VS Code  
+🌀 Git · GitHub  
+♻️ GitHub Actions  
+🧪 pytest · 🧹 ruff
+
+### 🎨 Documentación & Diseño
+🧱 Markdown  
+🎨 HTML/CSS  
+📐 Diagramas
+
 
 ---
 
