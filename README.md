@@ -2,7 +2,8 @@
 
 <p align="center">
   <strong>🌱 Agro‑Tech Developer | Python · Data Engineering · IoT · Climate Intelligence</strong><br>
-  🚀 Convirtiendo datos agrícolas en decisiones reales en producción
+  🚀 Convirtiendo datos agrícolas en decisiones reales en producción<br>
+  ⚡ Sistemas reales en producción | IoT | Data Engineering
 </p>
 
 <p align="center">
@@ -20,9 +21,9 @@ Diseño sistemas agrícolas que transforman datos de sensores y clima en decisio
 
 - 🌦️ **Climate Intelligence:** ETL + dashboards sobre datos meteorológicos (AEMET, series temporales, anomalías)
 - 🌾 **Smart Farming:** IoT + métricas agronómicas (VPD, riesgo fúngico)
-- 🧠 **Automatización:** pipelines reproducibles, decisiones sin intervención manual
+- 🧠 **Automatización:** pipelines reproducibles, decisiones sin intervención manual  
 
-👉 Resultado: menos error, más producción y decisiones basadas en datos reales
+👉 Resultado: menos error, mayor producción y decisiones basadas en datos reales  
 
 ---
 
@@ -96,7 +97,7 @@ Portfolio interactivo orientado a sistemas reales y arquitectura.
 
 Construcción de sistemas que conectan:
 
-sensores → datos → decisiones automáticas  
+sensor → datos → decisiones automáticas  
 
 Especializado en:
 
@@ -114,7 +115,7 @@ Especializado en:
 - 🤖 IoT y automatización con Python  
 - 🌍 Remoto o Sevilla  
 
-👉 Si tienes datos, sensores o necesitas monitorización → hablemos  
+👉 Si tienes sensores, datos o necesitas monitorización → hablemos  
 
 ---
 
@@ -128,4 +129,4 @@ Especializado en:
 ## 🚀 Visión
 
 Impulsar la digitalización del campo mediante datos, automatización e IoT  
-para una agricultura más precisa, eficiente y sostenible. 🌱
+para una agricultura más precisa, eficiente y sostenible 🌱
